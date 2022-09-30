@@ -5,10 +5,10 @@
 }
 @font-face {
   font-family: 'tloz';
-  src: url(/font/TLOZ-Minish.ttf);
+  src: url(font/TLOZ-Minish.ttf);
 }
 body {
-  background-image: url(/image/bg-image.png);
+  background-image: url(image/bg-image.png);
   height: 100vh;
   width: 100%;
   background-size: cover;
@@ -194,7 +194,7 @@ body {
  /* web view start */
  @media screen and (min-width: 924px) {
   body {
-    background-image: url(/image/web-bg.png);
+    background-image: url(image/web-bg.png);
     height: 100vh;
     width: 100%;
     background-size: cover;
